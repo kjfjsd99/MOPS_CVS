@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Edge 公開資訊觀測站(1)",
+  "Type": "Screen",
+  "Id": "3NX-496fOUe12_xHRLLefg",
+  "Reference": "avRZ9uvLa0SiExLvHuV5gw/3NX-496fOUe12_xHRLLefg",
+  "ParentRef": "avRZ9uvLa0SiExLvHuV5gw/ZAAn9HK2ckiBbytFBp2FIw",
+  "Created": "2025-01-10T01:06:03.4073989Z",
+  "Updated": "2025-01-10T01:06:03.4073989Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

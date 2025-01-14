@@ -1,0 +1,14 @@
+﻿{
+  "Name": "Drop down '化學工業'",
+  "Type": "Element",
+  "TaxonomyType": "Dropdown",
+  "Id": "Ff0Gumnt-0yAOl9kH9Rb2g",
+  "Reference": "avRZ9uvLa0SiExLvHuV5gw/Ff0Gumnt-0yAOl9kH9Rb2g",
+  "ParentRef": "avRZ9uvLa0SiExLvHuV5gw/3NX-496fOUe12_xHRLLefg",
+  "Created": "2025-01-10T01:06:04.0357148Z",
+  "Updated": "2025-01-10T01:06:04.0357148Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

@@ -1,0 +1,14 @@
+﻿{
+  "Name": "'另存CSV'",
+  "Type": "Element",
+  "TaxonomyType": "Icon",
+  "Id": "FOC0kO4qAEeVp2PjwfuVAA",
+  "Reference": "avRZ9uvLa0SiExLvHuV5gw/FOC0kO4qAEeVp2PjwfuVAA",
+  "ParentRef": "avRZ9uvLa0SiExLvHuV5gw/5VCD737AikeLgXoq34q3Uw",
+  "Created": "2025-01-10T01:16:20.2745076Z",
+  "Updated": "2025-01-10T01:16:20.2745076Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.3.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.12.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

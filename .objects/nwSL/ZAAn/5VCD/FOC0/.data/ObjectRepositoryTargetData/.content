@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="88aa6mF270ajlGraKzsSCQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="mops.twse.com.tw/mops/web/t51sb01" CVScreenId="e2a303ec-3460-48ab-852e-642d153c4118" CvElementArea="326, 630, 128, 42" CvTextArea="405, 642, 41, 18" CvTextArgument="CSV" CvType="Button" DesignTimeRectangle="326, 630, 128, 42" DesignTimeScaleFactor="1.25" ElementType="Icon" FuzzySelectorArgument="&lt;webctrl parentid='PageBody' tag='TABLE' /&gt;&lt;webctrl parentid='div01' type='' tag='IMG' class='' aaname='另存CSV' /&gt;" Guid="a1dd5d32-8ace-4184-bb90-b5920d9b0082" ScopeSelectorArgument="&lt;html app='msedge.exe' title='公開資訊觀測站' /&gt;" SearchSteps="FuzzySelector, CV" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="16cb795e241015af9292e901dbbc2555.png" xmlns="">0_CG4qnpezUu_sYJmPDxjuw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
